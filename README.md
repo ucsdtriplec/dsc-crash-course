@@ -1,5 +1,12 @@
 
 # DSC Crash Course for Triple C Data Scientists
+------
+
+# FORK TO YOUR OWN REPO! 
+# DO NOT CHANGE THIS REPO!
+
+------
+
 - Overview: this is a repository for Python data analysis for data scientists of Triple C. It is for education purpose only. We hope our work can help you gain the skills you need for Triple C projects. If there is any questions, please email ucsdtriplec@gmail.com.
 - Folder overview:
 	- requirements.txt: required python packages for the projects in this repo.
