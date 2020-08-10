@@ -16,7 +16,8 @@
 
 ------
 ## After finish the project
-### `deactivate`
+### 1. Remember to deactivate everytime you finish / stop development on this.
+`deactivate`
 
 
 
