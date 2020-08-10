@@ -2,8 +2,7 @@
 # DSC Crash Course for Triple C Data Scientists
 ------
 
-# FORK TO YOUR OWN REPO! 
-# DO NOT CHANGE THIS REPO!
+## FORK TO YOUR OWN REPO!  DO NOT CHANGE THIS REPO!
 
 ------
 
